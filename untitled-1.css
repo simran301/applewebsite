@@ -1,0 +1,52 @@
+body {
+  padding-top: 50px;
+}
+
+.product.iPhone-x {
+}
+
+.product h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.product h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+h1 {
+}
+
+.learnmore {
+  margin-right: 10px;
+}
+
+img {
+  width: 70%;
+}
+
+.product.iPad {
+  margin-top: 50px;
+  background-color: #fafafa;
+}
+
+.product.Macbookpro {
+  margin-top: 50px;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+, div {
+  margin-top: 18px;
+}
+
+a {
+  margin-right: 12px;
+}
+
+.column2-div {
+}
+
